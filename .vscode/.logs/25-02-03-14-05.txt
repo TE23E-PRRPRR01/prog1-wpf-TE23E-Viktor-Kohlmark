@@ -1,0 +1,4 @@
+14:05:42 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\csharp.code-snippets
+----------------------------------------
+25-02-03 14:05 Session started
+----------------------------------------

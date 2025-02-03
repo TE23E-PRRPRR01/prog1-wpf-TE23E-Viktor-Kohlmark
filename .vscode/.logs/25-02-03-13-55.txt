@@ -1,0 +1,68 @@
+25-02-03 13:55 Session started
+----------------------------------------
+13:58:18 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+13:58:25 039:004 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+13:58:44 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+13:58:50 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+13:59:18 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\keybindings.json
+----------------------------------------
+13:59:25 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+13:59:38 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+14:00:18 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+14:00:32 039:004 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+
+14:00:44 045:005 > ,
+14:01:02 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+14:01:06 003:000 > "workbench.colorCustomizations": {
+        "activityBar.background": "#3B1D61",
+        "titleBar.activeBackground": "#532888",
+        "titleBar.activeForeground": "#FBF9FD"
+    },
+14:01:11 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+14:01:26 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+14:01:33 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+14:01:34 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+14:01:36 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+14:01:44 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+14:02:28 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+14:02:29 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\settings.json
+----------------------------------------
+14:02:49 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+14:03:10 043:000 > "GitHub.copilot":
+14:03:10 043:025 > true
+14:03:12 043:026 > false
+14:03:59 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\csharp.code-snippets
+----------------------------------------

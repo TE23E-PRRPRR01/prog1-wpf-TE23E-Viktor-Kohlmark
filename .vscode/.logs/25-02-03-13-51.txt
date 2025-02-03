@@ -1,0 +1,21 @@
+25-02-03 13:51 Session started
+----------------------------------------
+13:51:43 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\extensions.json
+----------------------------------------
+13:52:18 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\README.md
+----------------------------------------
+13:52:26 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\csharp.code-snippets
+----------------------------------------
+13:52:27 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\extensions.json
+----------------------------------------
+13:52:29 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------
+13:52:38 003:000 > "workbench.colorCustomizations": {
+        "activityBar.background": "#3B1D61",
+        "titleBar.activeBackground": "#532888",
+        "titleBar.activeForeground": "#FBF9FD"
+    },
+13:53:09 038:000 > },
+    "workbench.colorTheme": "Default Dark+"
+
+13:53:19 038:000 > }
