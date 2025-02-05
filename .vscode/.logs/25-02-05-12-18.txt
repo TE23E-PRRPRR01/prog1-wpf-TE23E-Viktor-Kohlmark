@@ -1,0 +1,22 @@
+12:18:32 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\csharp.code-snippets
+----------------------------------------
+25-02-05 12:18 Session started
+----------------------------------------
+12:18:36 Document switched to: c:\Users\viktor.kohlmark\AppData\Roaming\Code\User\profiles\-4d07b5de\snippets\xmail-karye-event.code-snippets
+----------------------------------------
+12:18:38 000:000 > {
+    "XAML event": {
+		"prefix": "event",
+		"body": [
+			"private void $1(object sender, RoutedEventArgs e)",
+			"{",
+			"\t$2",
+			"}"
+		],
+		"description": "Metod för att fånga event från XAML"
+	}
+}
+12:18:41 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\csharp.code-snippets
+----------------------------------------
+12:18:42 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\.vscode\settings.json
+----------------------------------------

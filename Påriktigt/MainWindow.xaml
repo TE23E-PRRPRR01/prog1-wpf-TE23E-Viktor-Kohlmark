@@ -1,0 +1,25 @@
+﻿<Window x:Class="Påriktigt.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Påriktigt" mc:Ignorable="d" Title="SkrivText" Width="200" Height="250" ResizeMode="NoResize" MaxHeight="400">
+    <StackPanel Background="#172144" >
+        <Label FontSize="16" Foreground="#FFFFFF">Ange en text</Label>
+        <TextBox Height="60" Margin="5" TextWrapping="Wrap" MaxWidth="200" Background="#23336a" BorderThickness="2" BorderBrush="#172144" Foreground="#FFFFFF"></TextBox>
+        <Button Click="OK" Content="Ok" Margin="5" Padding="5" Foreground="#FFFFFF" Background="#ac108b"  >    
+        <Button.Resources>
+        <Style TargetType="Border">
+            <Setter Property="CornerRadius" Value="5"/>
+        </Style>
+        </Button.Resources>
+        </Button>
+        <Button Click="Avbryt" Content="Avbryt" Margin="5" Padding="5" Foreground="#FFFFFF" Background="#ac108b" >   
+        <Button.Resources>
+        <Style TargetType="Border">
+            <Setter Property="CornerRadius" Value="5"/>
+        </Style>
+        </Button.Resources>
+        </Button>
+        </StackPanel>
+</Window>
