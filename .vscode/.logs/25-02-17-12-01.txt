@@ -1,0 +1,4 @@
+25-02-17 12:01 Session started
+----------------------------------------
+12:01:49 Document switched to: c:\Users\viktor.kohlmark\Documents\Code\DOTNET\PROG1\prog1-wpf-TE23E-Viktor-Kohlmark\Kapitel 1\MainWindow.xaml.cs
+----------------------------------------

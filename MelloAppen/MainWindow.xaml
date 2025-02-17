@@ -1,0 +1,20 @@
+﻿<Window x:Class="MelloAppen.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Omröstning" Height="450" Width="800" SizeToContent="WidthAndHeight">
+
+    <StackPanel Margin="20">
+        <Image Source="bilder/MelloLoga.png" Width="200"></Image>
+        <Label Margin="10" Foreground="#FFF" FontSize="24" >Vilken är din favoritlåt?</Label>
+
+        <Button Margin="10" Name="röd" Padding="10" Foreground="#FFF" Background="Red" Click="KlickRösta">Röd</Button>
+        <Button Name="blå" Margin="10" Padding="10" Foreground="#FFF" Background="Blue" Click="KlickRösta">Blå</Button>
+        <Button Name="grön" Margin="10" Padding="10" Foreground="#FFF" Background="Green" Click="KlickRösta">Grön</Button>
+        <Button Name="gul" Margin="10" Padding="10" Foreground="#FFF" Background="Yellow" Click="KlickRösta">Gul</Button>
+        <Button Name="lila" Margin="10" Padding="10" Foreground="#FFF" Background="Purple" Click="KlickRösta">Lila</Button>
+
+        <Label Margin="10" Padding="10">Antal röster:</Label>
+        <TextBox Name="txbResultat" IsReadOnly="True"></TextBox>
+        <Button Name="tabort" Padding="10" Margin="10" Foreground="#FFF" Background="Red" Click="TaBortRöster">Ta bort röster</Button>
+    </StackPanel>
+</Window>
