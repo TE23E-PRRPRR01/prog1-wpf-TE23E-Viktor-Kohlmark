@@ -1,0 +1,30 @@
+﻿<Window x:Class="BrändbollApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BrändbollApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        MinHeight="350" MinWidth="370" SizeToContent="WidthAndHeight">
+    
+    <StackPanel Margin="10" Background="#fadadd">
+        <Label FontSize="30">Brändbolls räknare</Label>
+    <!-- Visar pängen för de olika lagen -->
+    <!-- Orientation Horizontal gör den till att vara vågrätt -->
+        <StackPanel Orientation="Horizontal"> 
+            <Label>Lag inne</Label>
+            <TextBox Name="txbInne" Width="100" FontSize="15"></TextBox>
+            <Label>Lag ute</Label>
+            <TextBox Name="txbUte" Width="100" FontSize="15"></TextBox>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+        <Button Click="KlickFrivarv" Width="100" Height="30" Margin="5" Foreground="#FFF" Background="#c6adaf">Frivarv</Button>
+        <Button Click="KlickBränning" Width="100" Height="30" Margin="5" Foreground="#FFF" Background="#c6adaf">Bränning</Button>
+        <Button Click="KlickLyra" Width="100" Height="30" Margin="5" Foreground="#FFF" Background="#c6adaf">Lyra</Button>
+        <Button Click="KlickVarv" Width="100" Height="30" Margin="5" Foreground="#FFF" Background="#c6adaf">Varv</Button>
+        </StackPanel>
+        <Label>Historik</Label>
+        <TextBox IsReadOnly="True" Width="450" Height="200" Name="txbHistorik"> </TextBox>
+    </StackPanel>
+</Window>
